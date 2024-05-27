@@ -14,7 +14,7 @@ const Navbar = () => {
             className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
             onClick={()=>setMenuOpen(false)}>
                 <li><a href="#education">Education</a></li>
-                <li><a href="#Skills">Skills</a></li>
+                <li><a href="#skills">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul></div>
