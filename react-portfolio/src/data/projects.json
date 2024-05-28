@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Springboot-Ecommerce Application",
+      "imageSrc": "projects/project1.png",
+      "description": "This project is a web application designed to facilitate the online purchase of books, leveraging the powerful Spring Boot framework.",
+      "skills": ["React", "REST API", "Java Spring Boot", "JWT", "Postgresql"],
+      
+      "source": "https://github.com/SupuniAbeysinghe/Software-Architecture-Group-Project-Backend"
+    },
+    {
+      "title": "Cosmetics-Ecommerce Application",
+      "imageSrc": "projects/cosmetics.png",
+      "description": "Developed a web application for purchasing cosmetics online as part of an assignment. Features include product listings, a shopping cart, user authentication, and order management. ",
+      "skills": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+      
+      "source": "https://github.com/SandalikaLiyanage/cosmetics-ecom"
+    },
+    {
+      "title": "Docker-Beginner project",
+      "imageSrc": "projects/project.png",
+      "description": "This is deployment of a basic Python Flask App as images into Docker hub.",
+      "skills": ["Dockerfile","Python","JavaScript"],
+      
+      "source": "https://github.com/SandalikaLiyanage/Docker-beginner-projects"
+    },
+    {
+        "title": "full-stack MERN notes app",
+        "imageSrc": "projects/notes.png",
+        "description": "Currently developing a full-stack notes application using the MERN stack. This app allows users to create, save, and manage their notes efficiently.",
+        "skills": ["React","Node","Express","MongoDB Atlas","TypeScript"], 
+        
+        "source": "https://github.com/SandalikaLiyanage/MERN-stack-project"
+      }
+  ]
