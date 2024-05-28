@@ -17,6 +17,9 @@
     color: var(--color-text);
 }
 
+.menuBtn{
+    display: none;
+}
 .menu{
     display: flex;
 
