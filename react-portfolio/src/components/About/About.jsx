@@ -7,7 +7,7 @@ const About = () => {
    <section className={styles.container} id="education">
     <h2 className={styles.title}>Education</h2>
     <div className={styles.content}>
-    <img src={getImageUrl("about/aboutImage.png")} alt="Me sitting with a laptop" className={styles.aboutImage} />
+    
     <ul className={styles.aboutItems}>
     <li className={styles.aboutItem}><img className={styles.aboutIcon} src={getImageUrl("about/school.png")} alt="university icon"  />
     <div className={styles.aboutItemText}>

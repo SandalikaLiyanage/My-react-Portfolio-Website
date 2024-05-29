@@ -1,62 +1,77 @@
 [
-    {
+  {
       "title": "HTML",
-      "imageSrc": "skills/html.png"
-    },
-    {
+      "imageSrc": "skills/html.png",
+      "level": 90
+  },
+  {
       "title": "CSS",
-      "imageSrc": "skills/css.png"
-    },
-    {
+      "imageSrc": "skills/css.png",
+      "level": 90
+  },
+  {
       "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
+      "imageSrc": "skills/react.png",
+      "level": 50
+  },
+  {
       "title": "Node",
-      "imageSrc": "skills/node.png"
-    },
-    {
+      "imageSrc": "skills/node.png",
+      "level": 40
+  },
+  {
       "title": "MySQL",
-      "imageSrc": "skills/mysql.png"
-    },
-    {
+      "imageSrc": "skills/mysql.png",
+      "level": 90
+  },
+  {
       "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
-    },
-    {
-        "title": "Postgresql",
-        "imageSrc": "skills/postgres.png"
-      },
-    {
-        "title": "PHP",
-        "imageSrc": "skills/php.png"
-    },
-    {
+      "imageSrc": "skills/mongodb.png",
+      "level": 40
+  },
+  {
+      "title": "Postgresql",
+      "imageSrc": "skills/postgres.png",
+      "level": 40
+  },
+  {
+      "title": "PHP",
+      "imageSrc": "skills/php.png",
+      "level": 60
+  },
+  {
       "title": "Figma",
-      "imageSrc": "skills/figma.png"
-    },
-    {
-        "title": "Python",
-        "imageSrc": "skills/python.png"
-    },
-    {
-        "title": "Java",
-        "imageSrc": "skills/java.png"
-    },
-    {
-        "title": "Docker",
-        "imageSrc": "skills/docker.png"
-    },
-    {
-        "title": "Springboot",
-        "imageSrc": "skills/springboot.png"
-    },
-    {
-        "title": "Express JS",
-        "imageSrc": "skills/expressjs.png"
-    },
-    {
-        "title": "Typescript",
-        "imageSrc": "skills/typescript.png"
-    }
-  ]
+      "imageSrc": "skills/figma.png",
+      "level": 70
+  },
+  {
+      "title": "Python",
+      "imageSrc": "skills/python.png",
+      "level": 90
+  },
+  {
+      "title": "Java",
+      "imageSrc": "skills/java.png",
+      "level": 60
+  },
+  {
+      "title": "Docker",
+      "imageSrc": "skills/docker.png",
+      "level": 50
+  },
+  {
+      "title": "Springboot",
+      "imageSrc": "skills/springboot.png",
+      "level": 40
+  },
+  {
+      "title": "Express JS",
+      "imageSrc": "skills/expressjs.png",
+      "level": 30
+  },
+  {
+      "title": "Typescript",
+      "imageSrc": "skills/typescript.png",
+      "level": 30
+  }
+]
